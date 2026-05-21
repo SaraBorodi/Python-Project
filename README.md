@@ -1,4 +1,3 @@
-# Python-Project
 # Salary Classification using k-NN
 
 This project uses the k-Nearest Neighbors (k-NN) algorithm to classify employee salaries into three categories: low, medium, and high.
